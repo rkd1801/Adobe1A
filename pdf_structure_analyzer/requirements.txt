@@ -1,0 +1,13 @@
+fitz==0.0.1.dev2
+joblib==1.5.1
+joblib==1.4.2
+joblib==1.2.0
+nltk==3.8.1
+numpy==1.24.3
+numpy==1.23.5
+pandas==2.0.3
+pandas==1.5.3
+scikit_learn==1.3.0
+scikit_learn==1.2.2
+spacy==3.8.7
+xgboost==3.0.2
